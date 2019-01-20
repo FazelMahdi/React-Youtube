@@ -7,8 +7,8 @@ A Simple Website like youtube with
 
 — axios
 
-[SCREENSHOT](https://imgur.com/a/ezI0hDG "SCREENSHOT")
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ezI0hDG"><a href="//imgur.com/ezI0hDG"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[SCREENSHOT](https://cdn1.imggmi.com/uploads/2019/1/20/afd2d7b828ac81ece72adb86d3515311-full.png "SCREENSHOT")
+
 
 ## Available Scripts
 
