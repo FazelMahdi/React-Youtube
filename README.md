@@ -1,8 +1,9 @@
 
 A Simple Website like youtube with 
--— React.Js 
--— Semantic-Ui
--— axios 
+
+— React.Js 
+— Semantic-Ui
+— axios
 
 [SCREENSHOT](https://imgur.com/a/ezI0hDG "SCREENSHOT")
 
